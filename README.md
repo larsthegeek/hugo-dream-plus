@@ -57,7 +57,7 @@ The theme can be installed by running the following commands inside your **Hugo 
 ```shell
 cd themes
 git submodule add https://github.com/UtkarshVerma/hugo-dream-plus dream-plus
-git submodule update --init --recursive
+git submodule update --init --recursive --progress
 ```
 
 ## Getting Started
